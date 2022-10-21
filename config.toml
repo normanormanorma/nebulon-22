@@ -1,4 +1,4 @@
-baseURL = 'http://nebulonphotography.net/'
+baseURL = 'https://balazsvarga.netlify.app/'
 languageCode = 'en-us'
 title = 'Balázs Varga'
 theme = 'contrast-hugo'
