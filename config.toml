@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://nebulonphotography.net/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Balázs Varga'
+theme = 'contrast-hugo'
