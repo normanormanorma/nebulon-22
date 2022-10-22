@@ -1,5 +1,5 @@
 +++
-title = "Balázs Varga: Doom City"
+title = "Doom City"
 date = 2020-12-12
 draft = false
 type = "project"
