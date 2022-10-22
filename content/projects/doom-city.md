@@ -1,7 +1,7 @@
 +++
 title = "Doom City"
 date = 2020-12-12
-draft = false
+draft = true
 type = "project"
 description = "Scenes from a half imaginary, half real place."
 +++
