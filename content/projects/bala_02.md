@@ -1,7 +1,7 @@
 +++
 title = "Balázs Varga: Green"
-draft = true
-weight = 1
+draft = false
 date = 2021-03-25
+type = "project"
 description = ""
 +++

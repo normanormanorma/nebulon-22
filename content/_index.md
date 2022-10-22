@@ -1,9 +1,6 @@
 +++
-title = "News"
+title = ""
 draft = false
-weight = 1
-[menu.main]
-  identifier = "home"
 +++
 
-
+![MainImage](main.jpg)

@@ -14,10 +14,11 @@ For general inquiries and private commissions (i.e. portraits & special projects
 **Social Media**  
 [Instagram](https://www.instagram.com/nebulon8/?hl=en)  
 [Instagram - spectral potraits](https://www.instagram.com/spectral.portraits/?hl=en)  
-[Flickr](https://www.flickr.com/photos/vargabalazs/)  
+[Flickr](https://www.flickr.com/photos/vargabalazs/)
 
-**Norma Photography Collective**  
-[www.normanormanorma.org](www.normanormanorma.org)
+**Photography**  
+[Norma Photography Collective](https://www.normanormanorma.org)  
+[RANDOM - Association of Contemporary Hungarian Photographers](https://www.instagram.com/randomxhibition/?hl=en)
 
-**RANDOM -  Association of Contemporary Hungarian Photographers**  
-[www.instagram.com/randomxhibition](https://www.instagram.com/randomxhibition/?hl=en)
+**Music**  
+[God and Monkey](https://www.youtube.com/channel/UCiYqOv9GlFuTLsg82nBgzzg)
