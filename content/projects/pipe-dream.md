@@ -2,19 +2,17 @@
 title = "Pipe Dream"
 draft = false
 date = 2020-03-25
-type = "project"
+type = "projects"
 description = ""
 +++
 
-**pipe dream:**
+_noun_
 
-noun
+_1. a fanciful or impossible plan or hope_
 
-1. a fanciful or impossible plan or hope
+_word origin:_
 
-word origin:
-
-alluding to dreams produced by smoking an opium pipe
+_alluding to dreams produced by smoking an opium pipe_
 
 In this project my main interest lies in the exploration of the subconcious and dreams. Photography is a good tool for discovery, as with analogue cameras I don't see the result immediately. Whats makes the process difficult is the reality connected nature of the medium.
 

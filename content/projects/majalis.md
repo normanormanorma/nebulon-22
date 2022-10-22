@@ -2,11 +2,9 @@
 title = "Majális"
 draft = false
 date = 2021-03-25
-type = "project"
+type = "projects"
 description = ""
 +++
-
-**Majális:**
 
 The traditional maying the city park of Budapest traces its history back to older times. However, its contemporary version seems more like keeping the traditions of the socialist era, only in a modernized fashion. The colourful swirl and the free of charge events attract huge crowds of people from very different social backgrounds. Venders come from various parts of the country and beyond. With these pictures I took diving down in this melting pot, I would like to convey that particular - sometimes comical and surreal atmosphere - which is present only on this day in the park. The pictures were taken between 2015 and 2019.
 
