@@ -1,9 +1,8 @@
 +++
 title = "Pipe Dream"
 draft = false
-date = 2020-03-25
-type = "projects"
-description = ""
+date = 2016-03-25
+description = "The exploration of the subconcious and dreams are the main interest of this visual record of a 4 year period of my life in which photography serves as a tool for discovery"
 +++
 
 _noun_
