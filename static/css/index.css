@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Bitter&display=swap");
+@import url("https://fonts.googleapis.com/css?family=IBM+Plex+Serif&display=swap");
 
 html {
   background: #d3d4db;
@@ -10,8 +10,8 @@ html {
 body {
   background: #ffffff;
   color: #212228;
-  font-family: "Bitter", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto",
-    sans-serif;
+  font-family: "IBM Plex Serif", -apple-system, "Helvetica Neue", "Segoe UI",
+    "Roboto", sans-serif;
   font-weight: 400;
   line-height: 1.6;
   margin: 0;
