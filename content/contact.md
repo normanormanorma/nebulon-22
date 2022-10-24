@@ -19,6 +19,3 @@ For general inquiries and private commissions (i.e. portraits & special projects
 **Photography**  
 [Norma Photography Collective](https://www.normanormanorma.org)  
 [RANDOM - Association of Contemporary Hungarian Photographers](https://www.instagram.com/randomxhibition/?hl=en)
-
-**Music**  
-[God and Monkey](https://www.youtube.com/channel/UCiYqOv9GlFuTLsg82nBgzzg)
