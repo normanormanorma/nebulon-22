@@ -6,17 +6,43 @@ weight = 9999
   identifier = "about"
 +++
 
-I'm an explorist. I always watch, and sometimes i see.
+I’m Balázs Varga, existentialist and
+subjective documentary photographer
+with a degree in sociology. In my projects
+I investigate the mystical world of the
+dreams and the subconscious, as well
+as the social phenomena of the human
+environment (villages, cities).
 
-Other times i make the picture as well.
+### Bio
 
-I studied sociology.
-
-My favourite thing is to walk around places where I haven't been before.
-
-My work is a "visual phantom itching".
-
-I would like to place Budapest on the street photography map.
+- 2022 - „Liminality” – SOLO exhibition, Random Gallery
+- 2021 - „Paralell Locations” – Group exhibition, Random Dokubrom Gallery
+- 2021 - „Come Closer” – Group exhibition, Random Dokubrom Gallery
+- 2021 - „Élet/Kép” exhibition – Group show, Budapest Photo Festival, Kiscelli Múzeum
+- 2020 - „Annus Horribilis” – Honourable mention Float magazine online exhibition
+- 2020 - „Pipe Dream” – Portfolio in F-Stop Magazine’s issue #104
+- 2020 - „I didn’t take a pill in Ibiza” – Featured on New Landscape Photography
+- 2020 - Art Market Budapest – Represented by Random
+- 2020 - Article about Norma streetphotography collective on Index.hu
+- 2020 - „Liquid” – Group exhibtion at Vizivárosi Galéria, Budapest
+- 2019 - Portfolio in Fotóművészet (hungarian art photography magazine)
+- 2019 - Art Market Budapest – Represented by Random
+- 2019 - „Majális” photographic series – Article on Index.hu
+- 2019 - „Portraits without faces” – International group exhibition, Ph21 Gallery
+- 2019 - „Pix & Text” – Group exhibition, Szabó Ervin Central Library Budapest
+- 2019 - „Alibi egy hónapra – Véletlen” – Photo illustration in literary journal
+- 2018 - Art Market Budapest – Represented by Random
+- 2018 - „Monochrome” – International group exhibiton, Ph21 Gallery
+- 2018 - „Object of Desire” – Group exhibition, Szatyor Art Gallery
+- 2017 - Member of Random – Contemporary art photography collective & gallery
+- 2017 - „Alibi egy hónapra – Vér” – Photo illustration in literary journal
+- 2016 - „Darktest” - Solo exhibiton in Dzzzs bar
+- 2016 - Fotófalu – Workshop with László Balassa
+- 2015 - Eastreet 3 (Street photography from Eastern Europe) – Publication in the photobook and exhibition – Lublin, Poland
+- 2014 - Norma photography collective – Founding member
+- 2010 - PPKE BTK Sociology MA
+- 2009 - Wordpress – Inda photo competition – Group exhibition, Millenáris
 
 ### Articles
 

@@ -2,6 +2,7 @@
 title = "Pipe Dream"
 draft = false
 date = 2016-03-25
+period = "2014-2016"
 description = "The exploration of the subconscious and dreams are the main interest of this visual record of a 4 year period of my life in which photography serves as a tool for discovery"
 +++
 

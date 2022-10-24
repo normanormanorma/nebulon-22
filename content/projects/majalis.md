@@ -2,6 +2,7 @@
 title = "Majális"
 draft = false
 date = 2019-03-25
+period = "2015-2022"
 description = "The traditional maying in the city park of Budapest attracts crowds from various backgrounds, that create a sometimes comical, sometimes surreal atmosphere"
 +++
 
