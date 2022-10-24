@@ -8,6 +8,9 @@ weight = 9999
 
 For general inquiries and private commissions (i.e. portraits & special projects), please contact me under:
 
+**Phone**  
++36-20-528-6264
+
 **Email**  
 [milkywaystandard@hotmail.com](mailto:milkywaystandard@hotmail.com)
 
