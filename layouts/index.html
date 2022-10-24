@@ -25,7 +25,7 @@
 
 <article>
   {{ .Content }}
-  <header><h1>{{ .Title | default "News" | humanize }}</h1></header>
+  <!-- <header><h1>{{ .Title | default "News" | humanize }}</h1></header>
   <ul class="archive">
     {{- range $Pages }}
     <li>
@@ -33,7 +33,7 @@
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{- end }}
-  </ul>
+  </ul> -->
 </article>
 
 {{ end }}

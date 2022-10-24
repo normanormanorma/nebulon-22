@@ -1,7 +1,7 @@
 +++
 title = "God and Monkey: New Music Video 'Vaccinate me'"
 date = 2021-09-19
-draft = false
+draft = true
 description = "New music video"
 +++
 

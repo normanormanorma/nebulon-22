@@ -1,6 +1,6 @@
 +++
 title = "News"
-draft = false
+draft = true
 weight = 3
 [menu.main]
   identifier = "news"
