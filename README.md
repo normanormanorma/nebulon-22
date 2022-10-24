@@ -1,2 +1,3 @@
 # nebulon-22
-Trying out some alternative hugo templates
+
+Repo for 2022 page hugo page nebulonphotography.net
