@@ -29,7 +29,7 @@
   <ul class="archive" type="none">
     {{- range $Pages }}
     <li>
-      <a href="{{ .Permalink }}" style="color:#ffffff;"><span style="text-transform:uppercase; background:#2d2e36;padding:4px 12px 4px 12px;">{{ .Title }}</span><span style="text-transform:uppercase; margin-left:3px; background:#2d2e36ff;padding:4px 10px 4px 10px;">{{.Params.period }}</span></a>
+      <a href="{{ .Permalink }}" style="color:#ffffff;"><span style="text-transform:uppercase; background:#2d2e36;padding:4px 12px 4px 12px;">{{ .Title }}</span></a>
       <p>{{ .Description }}</p>
     </li>
     {{- end }}
