@@ -22,4 +22,4 @@ For the presentation of the pictures I chose the postcard form
 
 - postcards that probably nobody would send.
 
-... Pictures coming soon ...
+{{< gallery dir="/www_nebulonphotography_net_assets/projects/ibiza" >}}

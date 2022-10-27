@@ -33,46 +33,4 @@ collective subconscious.
 To understand reality is my pipe dream.
 A 1/1 booklet was created for this project in 2019.
 
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00002.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00003.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00004.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00005.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00006.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00007.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00008.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00009.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00010.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00011.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00012.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00013.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00014.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00015.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00016.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00017.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00018.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00019.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00020.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00021.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00022.jpg)
-
-![](http://www.nebulonphotography.net/img/pipe_dream/pipe_dream_00023.jpg)
+{{< gallery dir="/www_nebulonphotography_net_assets/projects/pipe_dream" >}}
