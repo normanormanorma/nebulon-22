@@ -1,0 +1,27 @@
+#+TITLE: site-nebulonphotography.net
+
+This is the backing project used to generate website https://www.nebulonphotography.org.
+
+* Hosting assets
+
+Assets and generated content is preferred to be stored in different buckets. It is because generated content is easily recreated while assets are not. Assets should be replicated or backed up to different bucket or offline. Also to assets a read access is preferred to service accounts while for the bucket containing generated content higher privileges are required for the service account.
+
+* Working with image assets
+
+It is preferred not to store image assets in the git repository. They are stored in a Google Cloud Storage bucket and they have to be downloaded during development and deployment builds.
+
+** Set up gsutil
+
+The Cloud SDK version is preferred for development, see https://cloud.google.com/storage/docs/gsutil_install.
+
+** Download image assets to the static folder
+
+#+begin_example
+gsutil cp -r gs://www_nebulonphotography_net_assets assets/
+#+end_example
+
+The images are now located in =static/BUCKET_NAME/OBJECT=. They will be accessible in the generated site via =/BUCKET_NAME/OBJECT=.
+
+| bucket source                                      | url that can be used in Hugo                   |
+|----------------------------------------------------+------------------------------------------------|
+| =gs://www_nebulonphotography_net_assets/projects/ibiza/01.jpg= | =/www_nebulonphotography_net_assets/projects/ibiza/01.jpg= |
