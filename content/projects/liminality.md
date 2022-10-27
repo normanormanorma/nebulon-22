@@ -43,4 +43,4 @@ physically also liminal spaces, mostly suburban,
 transitional places that do not really belong anywhere
 and therefore to no one.
 
-... photos coming soon ...
+{{< gallery dir="/www_nebulonphotography_net_assets/projects/liminality" >}}
